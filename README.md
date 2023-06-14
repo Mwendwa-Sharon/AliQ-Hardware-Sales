@@ -11,6 +11,7 @@ AtliQ hardware is a company which supplies computer hardware and peripherals to 
  
  ### ETL
  I imported the data into Power BI for data modelling, filtering and visualization.
+ 
  After analysis and transformations, I started on building the dashboards.
 
  
